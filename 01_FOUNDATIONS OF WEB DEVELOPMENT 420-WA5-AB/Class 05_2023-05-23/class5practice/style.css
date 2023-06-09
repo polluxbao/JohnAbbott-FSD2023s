@@ -1,0 +1,10 @@
+body {
+	background: wheat;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+}
+
+h1, h2 {
+	font-family: Times, serif;
+	font-size: 18px;
+}
